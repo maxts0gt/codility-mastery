@@ -6,7 +6,7 @@
 
 // For example, the rotation of array A = [3, 8, 9, 7, 6] is [6, 3, 8, 9, 7]
 
-// this a very simple algorithm
+// this a very simple algorithm, just have to careful to check the corner such as "[]" array
 const solution = (A, K) => {
   // first we check if we have an empty array
   if (A.length === 0) {
