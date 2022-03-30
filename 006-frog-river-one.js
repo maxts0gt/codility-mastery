@@ -1,4 +1,4 @@
-// Colidity No: 005
+// Colidity No: 006
 
 const solution = (X, A) => {
   // create position of array  with X+1
